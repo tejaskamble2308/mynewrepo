@@ -1,1 +1,2 @@
 this is a sample text file
+this line is modifying the txt file.
